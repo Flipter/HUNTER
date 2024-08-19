@@ -1,2 +1,0 @@
-# HUNTER
-pyproject.toml
